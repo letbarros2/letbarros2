@@ -37,7 +37,7 @@
   Feito com ❤️ por Letícia Barros 👋🏽 Entre em contato!
 
  
-  ![Snake animation](https://github.com/WemersonGomesDev/WemersonGomesDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/letbarros2/letbarros2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
